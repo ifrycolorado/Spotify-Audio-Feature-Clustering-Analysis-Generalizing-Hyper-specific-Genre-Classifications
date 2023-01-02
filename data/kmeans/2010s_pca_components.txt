@@ -1,0 +1,11 @@
+      Duration (ms)  Explicit  Danceability    Energy       Key  \
+pca1       0.067448  0.058860     -0.105470 -0.566955 -0.049574   
+pca2      -0.141878  0.578929      0.487539 -0.103092  0.041535   
+
+      Loudness (db)      Mode  Speechiness  Acousticness  Instrumentalness  \
+pca1      -0.517789  0.011968     0.013605      0.438856          0.096851   
+pca2      -0.126726 -0.227703     0.535877     -0.107137         -0.023160   
+
+      Liveness   Valence     Tempo  Time Signature  
+pca1 -0.125037 -0.367425 -0.107506       -0.156093  
+pca2  0.061467  0.044989  0.035605        0.143207  

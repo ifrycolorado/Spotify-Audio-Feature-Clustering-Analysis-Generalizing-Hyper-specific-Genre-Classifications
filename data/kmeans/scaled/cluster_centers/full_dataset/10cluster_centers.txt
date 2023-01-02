@@ -1,0 +1,60 @@
+===================
+
+Song center for Group 0: Another Minute, by Cause And Effect
+Genre list for cluster center: ['neo-synthpop', 'synthpop']
+Coordinates: (-1.3586792126736627, -1.2465001887967935)
+
+===================
+
+Song center for Group 1: Tonight I Wanna Be Your Man, by Andy Griggs
+Genre list for cluster center: ['country', 'country road', 'modern country rock']
+Coordinates: (2.112331506526272, 0.4701100314096748)
+
+===================
+
+Song center for Group 2: Cudi Montage, by KIDS SEE GHOSTS
+Genre list for cluster center: ['hip hop', 'rap']
+Coordinates: (-0.7099272696299451, 2.569104124593737)
+
+===================
+
+Song center for Group 3: Cars, by Gary Numan
+Genre list for cluster center: ['art pop', 'art rock', 'dance rock', 'industrial rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'post-punk', 'synthpop']
+Coordinates: (-0.13570878637768932, -1.0129694035993908)
+
+===================
+
+Song center for Group 4: Like Strangers, by The Everly Brothers
+Genre list for cluster center: ['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']
+Coordinates: (3.7157936975812467, 1.0975600939592274)
+
+===================
+
+Song center for Group 5: Knockout, by Lil Wayne Featuring Nicki Minaj
+Genre list for cluster center: ['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']
+Coordinates: (-2.2487897503870284, 1.3462054872013571)
+
+===================
+
+Song center for Group 6: Mr. Carter, by Lil Wayne Featuring Jay-Z
+Genre list for cluster center: ['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']
+Coordinates: (-2.6316457013309913, 3.1248715960641937)
+
+===================
+
+Song center for Group 7: Behind Blue Eyes, by The Who
+Genre list for cluster center: ['album rock', 'art rock', 'british invasion', 'classic rock', 'folk rock', 'hard rock', 'mellow gold', 'protopunk', 'rock', 'roots rock']
+Coordinates: (0.31493723990760636, 0.20037562868408118)
+
+===================
+
+Song center for Group 8: Steam, by Peter Gabriel
+Genre list for cluster center: ['album rock', 'art pop', 'art rock', 'dance rock', 'mellow gold', 'permanent wave', 'rock', 'soft rock', 'symphonic rock']
+Coordinates: (-1.055106621243965, -0.2256033336750082)
+
+===================
+
+Song center for Group 9: Don't Forget About Me, by Dusty Springfield
+Genre list for cluster center: ['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'motown', 'rock', 'soul', 'vocal jazz']
+Coordinates: (1.1392915648270854, -0.5105270395169049)
+

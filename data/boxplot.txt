@@ -1,0 +1,66 @@
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Duration (ms)_boxplot.eps}
+	\caption{Analysis of Duration (ms) distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Duration (ms)_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Danceability_boxplot.eps}
+	\caption{Analysis of Danceability distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Danceability_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Energy_boxplot.eps}
+	\caption{Analysis of Energy distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Energy_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Loudness (db)_boxplot.eps}
+	\caption{Analysis of Loudness (db) distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Loudness (db)_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Acousticness_boxplot.eps}
+	\caption{Analysis of Acousticness distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Acousticness_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Speechiness_boxplot.eps}
+	\caption{Analysis of Speechiness distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Speechiness_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Instrumentalness_boxplot.eps}
+	\caption{Analysis of Instrumentalness distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Instrumentalness_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Liveness_boxplot.eps}
+	\caption{Analysis of Liveness distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Liveness_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Valence_boxplot.eps}
+	\caption{Analysis of Valence distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Valence_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Tempo_boxplot.eps}
+	\caption{Analysis of Tempo distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Tempo_boxplot}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{boxplots/Popularity_boxplot.eps}
+	\caption{Analysis of Popularity distributions of the tracks in the Billboard Hot 100 charts. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Popularity_boxplot}
+\end{figure}
+

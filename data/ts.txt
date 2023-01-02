@@ -1,0 +1,72 @@
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Duration (ms)_ts.eps}
+	\caption{Analysis of Duration (ms) averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Duration (ms)_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Explicit_ts.eps}
+	\caption{Analysis of Explicit averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Explicit_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Danceability_ts.eps}
+	\caption{Analysis of Danceability averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Danceability_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Energy_ts.eps}
+	\caption{Analysis of Energy averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Energy_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Loudness (db)_ts.eps}
+	\caption{Analysis of Loudness (db) averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Loudness (db)_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Acousticness_ts.eps}
+	\caption{Analysis of Acousticness averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Acousticness_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Speechiness_ts.eps}
+	\caption{Analysis of Speechiness averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Speechiness_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Instrumentalness_ts.eps}
+	\caption{Analysis of Instrumentalness averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Instrumentalness_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Liveness_ts.eps}
+	\caption{Analysis of Liveness averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Liveness_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Valence_ts.eps}
+	\caption{Analysis of Valence averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Valence_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Tempo_ts.eps}
+	\caption{Analysis of Tempo averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Tempo_ts}
+\end{figure}
+
+\begin{figure} [h!]
+	\includegraphics[width = \linewidth]{ts/Popularity_ts.eps}
+	\caption{Analysis of Popularity averages of the tracks that peaked on the Hot 100 Billboard Chart during a given week. See the data dictionary section for a more detailed description of this feature.}
+	\label{fig:Popularity_ts}
+\end{figure}
+

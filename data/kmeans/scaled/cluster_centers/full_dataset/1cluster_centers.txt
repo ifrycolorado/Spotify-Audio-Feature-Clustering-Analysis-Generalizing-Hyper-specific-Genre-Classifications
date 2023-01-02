@@ -1,0 +1,6 @@
+===================
+
+Song center for Group 0: The Same Love That Made Me Laugh, by Bill Withers
+Genre list for cluster center: ['classic soul', 'funk', 'motown', 'quiet storm', 'soul']
+Coordinates: (-8.336121292975984e-16, -4.979578279536245e-17)
+

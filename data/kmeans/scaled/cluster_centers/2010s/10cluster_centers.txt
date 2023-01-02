@@ -1,0 +1,60 @@
+===================
+
+Song center for Group 0: Get Low, by Zedd & Liam Payne
+Genre list for cluster center: ['complextro', 'dance pop', 'edm', 'electro house', 'german techno', 'pop', 'post-teen pop', 'tropical house']
+Coordinates: (-1.8251786781637704, -0.9723416725717746)
+
+===================
+
+Song center for Group 1: I Almost Do, by Taylor Swift
+Genre list for cluster center: ['pop', 'post-teen pop']
+Coordinates: (0.8911310274466424, -1.1693142051395569)
+
+===================
+
+Song center for Group 2: Its Every Night Sis, by RiceGum Featuring Alissa Violet
+Genre list for cluster center: ['social media pop']
+Coordinates: (-0.841387663185129, 1.8827461959034557)
+
+===================
+
+Song center for Group 3: Holy Key, by DJ Khaled Featuring Big Sean, Kendrick Lamar & Betty Wright
+Genre list for cluster center: ['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']
+Coordinates: (-1.2946607769911924, 0.33362154428167384)
+
+===================
+
+Song center for Group 4: Redneck Crazy, by Tyler Farr
+Genre list for cluster center: ['contemporary country', 'country', 'country pop', 'country road', 'modern country rock', 'redneck']
+Coordinates: (-0.5659302724051143, -1.1162711135981391)
+
+===================
+
+Song center for Group 5: Nothing Like Us, by Justin Bieber
+Genre list for cluster center: ['canadian pop', 'dance pop', 'pop', 'post-teen pop']
+Coordinates: (4.9021844918414725, -1.1907152924887112)
+
+===================
+
+Song center for Group 6: Lose You, by Drake
+Genre list for cluster center: ['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']
+Coordinates: (2.327254274015786, 1.17908172684473)
+
+===================
+
+Song center for Group 7: Imma Be, by The Black Eyed Peas
+Genre list for cluster center: ['dance pop', 'pop', 'pop rap']
+Coordinates: (2.767543158647383, -1.3989570004440441)
+
+===================
+
+Song center for Group 8: Famous, by Lil Wayne Featuring Reginae Carter
+Genre list for cluster center: ['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']
+Coordinates: (0.38549387292094106, 0.6908536023932265)
+
+===================
+
+Song center for Group 9: Fr Fr, by Wiz Khalifa Featuring Lil Skies
+Genre list for cluster center: ['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']
+Coordinates: (0.7172228880141721, 2.4388794029164913)
+

@@ -1,0 +1,244 @@
+{ 
+    "Rename": {
+        "url": "hot_100_url", 
+        "WeekID": "WeekID", 
+        "Week Position": "Week Positon",
+        "Song": "Song", 
+        "Performer": "Performer", 
+        "SongID": "SongID", 
+        "Instance": "Instance", 
+        "Previous Week Position": "Previous Week Position", 
+        "Peak Position": "Peak Position", 
+        "Weeks on Chart": "Weeks on Chart", 
+
+        "spotify_genre": "Genres", 
+        "spotify_track_id": "spotify_track_id", 
+        "spotify_track_preview_url": "spotify_track_preview_url", 
+        "spotify_track_duration_ms": "Duration (ms)", 
+        "spotify_track_explicit": "Explicit", 
+        "spotify_track_album": "Album", 
+
+        "danceability": "Danceability", 
+        "energy": "Energy", 
+        "key": "Key", 
+        "loudness": "Loudness (db)", 
+        "mode": "Mode", 
+        "speechiness": "Speechiness", 
+        "acousticness": "Acousticness", 
+        "instrumentalness": "Instrumentalness", 
+        "liveness": "Liveness", 
+        "valence": "Valence", 
+        "tempo": "Tempo",
+        "time_signature": "Time Signature", 
+        "spotify_track_popularity": "Popularity"
+
+    }, 
+
+    "Details": {
+        
+        "hot_100_url":  {
+            "description": "Billboard Hot 100 URL used to scrape data",
+            "class": "ID",
+            "origin": "hot100", 
+            "dtype": "string"
+        },
+        
+        "WeekID":  {
+            "description": "Day that the weekly chart was published, as a datetime object",
+            "class": "ID",
+            "origin": "hot100", 
+            "dtype": "datetime"
+        },
+        
+        "Week Positon":  {
+            "description": "Current position corresponding with the WeekID",
+            "class": "Quant",
+            "origin": "hot100", 
+            "dtype": "integer"
+        },
+        
+        "Song":  {
+            "description": "Title of the track",
+            "class": "ID",
+            "origin": "hot100", 
+            "dtype": "string"
+        },
+        
+        "Performer":  {
+            "description": "Name of the performer/artist listed on the Billboard Hot 100",
+            "class": "Cat",
+            "origin": "hot100", 
+            "dtype": "string"
+        },
+        
+        "SongID":  {
+            "description": "Concatenation of Perfomer and Song to create a unique ID",
+            "class": "ID",
+            "origin": "hot100", 
+            "dtype": "string"
+        },
+        
+        "Instance":  {
+            "description": "Indicates how many times a song has appeared on the Hot 100 Billboard chart (i.e. if a song was on the chart, fell off the chart, and then returned, it would have a value of 2)",
+            "class": "Quant",
+            "origin": "hot100", 
+            "dtype": "integer"
+        },
+        
+        "Previous Week Position":  {
+            "description": "Position of the song on the previous Hot 100 Billboard chart",
+            "class": "Quant",
+            "origin": "hot100", 
+            "dtype": "integer"
+        },
+        
+        "Peak Position":  {
+            "description": "Highest position attained by the song as of the corresponding week",
+            "class": "Quant",
+            "origin": "hot100", 
+            "dtype": "integer"
+        },
+        
+        "Weeks on Chart":  {
+            "description": "Weeks on the chart as of the corresponding week",
+            "class": "Quant",
+            "origin": "hot100", 
+            "dtype": "integer"
+        },
+        
+        "Genres":  {
+            "description": "A list of the genres the artist is associated with. If not yet classified, the array is empty",
+            "class": "Cat",
+            "origin": "spotify", 
+            "dtype": "string"
+        },
+        
+        "spotify_track_id":  {
+            "description": "The Spotify ID for the track",
+            "class": "ID",
+            "origin": "spotify", 
+            "dtype": "string"
+        },
+        
+        "spotify_track_preview_url":  {
+            "description": "The preview URL for the song on Spotify",
+            "class": "ID",
+            "origin": "spotify", 
+            "dtype": "string"
+        },
+        
+        "Duration (ms)":  {
+            "description": "The length of the track in ms",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "integer"
+        },
+        
+        "Explicit":  {
+            "description": "Whether or not the track has explicit lyrics ( true = yes it does; false = no it does not OR unknown)",
+            "class": "Cat",
+            "origin": "spotify", 
+            "dtype": "boolean"
+        },
+        
+        "Album":  {
+            "description": "The album on which the track appears",
+            "class": "ID",
+            "origin": "spotify", 
+            "dtype": "string"
+        },
+        
+        "Danceability":  {
+            "description": "Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Energy":  {
+            "description": "Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Key":  {
+            "description": "The key the track is in. Integers map to pitches using standard Pitch Class notation. E.g. 0 = C, 1 = C#/Db, 2 = D, and so on. If no key was detected, the value is -1.",
+            "class": "Cat",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Loudness (db)":  {
+            "description": "The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typically range between -60 and 0 db.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Mode":  {
+            "description": "Mode indicates the modality (major or minor) of a track, the type of scale from which its melodic content is derived. Major is represented by 1 and minor is 0.",
+            "class": "Cat",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Acousticness":  {
+            "description": "A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Speechiness":  {
+            "description": "Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Instrumentalness":  {
+            "description": "Predicts whether a track contains no vocals. \"Ooh\" and \"aah\" sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly \"vocal\". The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Liveness":  {
+            "description": "Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. A value above 0.8 provides strong likelihood that the track is live.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Valence":  {
+            "description": "A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Tempo":  {
+            "description": "The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "float"
+        },
+        
+        "Time Signature":  {
+            "description": "An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of \"3/4\", to \"7/4\".",
+            "class": "Cat",
+            "origin": "spotify", 
+            "dtype": "integer"
+        },
+        
+        "Popularity":  {
+            "description": "The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are. Generally speaking, songs that are being played a lot now will have a higher popularity than songs that were played a lot in the past. Duplicate tracks (e.g. the same track from a single and an album) are rated independently. Artist and album popularity is derived mathematically from track popularity. Note: the popularity value may lag actual popularity by a few days: the value is not updated in real time.",
+            "class": "Quant",
+            "origin": "spotify", 
+            "dtype": "integer"
+        }
+
+    }
+
+}

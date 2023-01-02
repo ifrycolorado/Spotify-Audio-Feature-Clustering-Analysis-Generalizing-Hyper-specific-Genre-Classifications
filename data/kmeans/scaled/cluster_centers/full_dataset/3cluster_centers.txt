@@ -1,0 +1,18 @@
+===================
+
+Song center for Group 0: See You In September, by The Tempos
+Genre list for cluster center: []
+Coordinates: (2.0947419166334798, 0.40120042496312497)
+
+===================
+
+Song center for Group 1: Umma Do Me, by Rocko
+Genre list for cluster center: ['atl hip hop', 'atl trap', 'deep southern trap', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']
+Coordinates: (-2.0268926619062886, 2.3069156404945494)
+
+===================
+
+Song center for Group 2: Nothin' At All, by Heart
+Genre list for cluster center: ['folk-pop', 'indie folk', 'indie pop', 'neo mellow', 'new americana', 'seattle indie', 'stomp and holler']
+Coordinates: (-0.5612625052394398, -0.7262582040259067)
+

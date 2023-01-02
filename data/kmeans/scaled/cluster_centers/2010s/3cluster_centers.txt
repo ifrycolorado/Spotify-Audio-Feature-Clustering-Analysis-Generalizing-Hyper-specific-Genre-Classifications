@@ -1,0 +1,18 @@
+===================
+
+Song center for Group 0: 9 Piece, by Rick Ross Featuring Lil Wayne Or T.I.
+Genre list for cluster center: ['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']
+Coordinates: (0.14545397134417323, 1.5997790125192437)
+
+===================
+
+Song center for Group 1: Everybody Hates Me, by The Chainsmokers
+Genre list for cluster center: ['electropop', 'pop', 'tropical house']
+Coordinates: (-1.0013605538908235, -0.7865593792614018)
+
+===================
+
+Song center for Group 2: Into The Unknown, by Idina Menzel & AURORA
+Genre list for cluster center: ['hollywood', 'show tunes']
+Coordinates: (2.402917608246099, -0.9801049522379964)
+
