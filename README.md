@@ -1,6 +1,4 @@
 # Spotify-Audio-Feature-Clustering-Analysis-Generalizing-Hyper-specific-Genre-Classifications
-A collection of code and writing about research done on Spotify's genre clustering tendencies. 
-
 
 As one of the world’s top music streaming services, Spotify’s data infrastructure is immense and
 thoroughly engineered. Spotify’s data backend boasts the ability to classify songs with an extreme
@@ -12,3 +10,5 @@ Hot 100 charts from 1958-2020 to Spotify’s audio features. By leveraging Princ
 on a set of Spotify audio features, I reduce 1042 unique genres into k = 3 and k = 10 genre clusters.
 Each cluster is defined by a relatively distinct accumulation of genres, and the cluster centers indicate
 the general archetypal song for that genre cluster.
+
+This repository acts as a collection of code and documentation about research done on Spotify's genre clustering tendencies. 
